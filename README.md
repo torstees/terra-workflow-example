@@ -31,6 +31,6 @@ From my experience, unless you test your workflows using a local copy of cromwel
 ## Running the Workflow
 Inside the Workflows tab of the workspace you exported the newly minted workflow, it should be listed inside the workflows tab. To use this workflow, you simply click on it. For loci_of_interest, you must click on the folder icon and choose an appropriate file (my example was named 'data/positions-subset.txt', prefixed by the google bucket ID) You can optionally provide a VCF (the default is hardcoded into the WDL file)
 
-Click save and then "Run Analysis"
+Click save and then "Run Analysis".
 
 
